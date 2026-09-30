@@ -1,0 +1,17 @@
+Supermarket Sales EDA 
+Exploratory Data Analysis of supermarket sales data using Python, Pandas, NumPy, and Matplotlib.
+📊 Project Overview 
+This project explores supermarket sales data to understand sales performance, customer behavior, product lines, payment methods, and other business-related patterns.
+The analysis includes data inspection, cleaning, feature creation, filtering, aggregation, and visualization.
+🗂️ Dataset 
+The dataset contains 1,000 sales transactions and 17 columns, including information such as:
+Branch City Customer Type Gender Product Line Unit Price Quantity Tax Total Date Time Payment Rating Gross Income 
+🔍 Analysis Performed Checked dataset shape and data types Inspected missing values and duplicates Generated descriptive statistics Created date-based features Analyzed sales by product line Compared sales across branches and cities Analyzed customer types and gender Explored payment methods Analyzed customer ratings Used filtering, value_counts(), groupby(), and aggregation Created visualizations to identify patterns and trends 🛠️ Tools & Libraries Python Pandas NumPy Matplotlib Google Colab Jupyter Notebook
+📈 Key Insights 
+The analysis provides insights into:
+Product-line performance Branch and city-level sales patterns Customer demographics Payment method preferences Quantity and revenue patterns Customer ratings Gross income and overall sales performance 📁 Repository Contents Supermarket_sales_EDA.ipynb — Complete exploratory data analysis notebook README.md — Project documentation supermarket_sales.csv — Dataset used for the analysis 🎯 Purpose 
+This project was created as part of my Data Science learning journey to practice practical Exploratory Data Analysis and build a portfolio using real-world sales data.
+👩‍💻 Author 
+Zoya Fatyma
+GitHub: zoya-fatyma
+
